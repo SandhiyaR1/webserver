@@ -68,7 +68,8 @@ httpd.serve_forever()
 
 ### client output
 
-![clientoutput](./image/server client output.png)
+![server client output](https://user-images.githubusercontent.com/113497571/228440279-c2f7719c-709f-44e1-8ae0-3aef74e19a4e.png)
+
 
 ## RESULT:
 To develop a simple webserver to serve html programming pages.
